@@ -33,3 +33,9 @@ This project demonstrates how to use the **stack data structure** to solve real-
 - `stack[-1]` → Peek (top of the stack)  
 
 ---
+
+
+
+Did queues today — covered enqueue, dequeue, and even tried out a priority queue with heapq.
+Just messing around with data structures and learning how they work in real life.(check the queues folder)
+
