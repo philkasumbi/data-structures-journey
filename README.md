@@ -39,3 +39,14 @@ This project demonstrates how to use the **stack data structure** to solve real-
 Did queues today — covered enqueue, dequeue, and even tried out a priority queue with heapq.
 Just messing around with data structures and learning how they work in real life.(check the queues folder)
 
+(check folder generating binary using queue)This project generates binary numbers using a queue to build sequences step-by-step.
+It showcases enqueue and dequeue operations with practical application.
+Perfect for learning queue usage and binary number generation.
+
+
+
+
+
+
+
+
