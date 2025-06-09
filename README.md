@@ -44,7 +44,9 @@ It showcases enqueue and dequeue operations with practical application.
 Perfect for learning queue usage and binary number generation.
 
 
-
+did BST validation with boundary checking (check validating a BST folder)
+Implements a recursive function to validate a Binary Search Tree by ensuring each node’s value falls within allowed min and max boundaries.  
+Includes examples of a valid and an invalid BST.
 
 
 
