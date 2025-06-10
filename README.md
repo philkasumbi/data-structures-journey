@@ -60,6 +60,18 @@ A simple Python script to find and count duplicate numbers in a list using a has
 - Prints numbers that appear more than once.
 
 
+ 🔺 Heap Sort in Python -(check heap sort folder)
+
+A simple Python implementation of Heap Sort using a max heap.
+
+## ⚙️ How It Works
+
+- Builds a max heap from the input array.
+- Repeatedly swaps the root (maximum element) with the last element.
+- Reduces the heap size and re-heapifies to maintain the heap structure.
+
+
+
 
 
 
