@@ -49,6 +49,17 @@ Implements a recursive function to validate a Binary Search Tree by ensuring eac
 Includes examples of a valid and an invalid BST.
 
 
+🔁 Duplicate Finder in Python -(check hash tables folder)
+
+A simple Python script to find and count duplicate numbers in a list using a hash table (dictionary).
+
+## 🧠 How It Works
+
+- Loops through an array.
+- Counts frequency of each number.
+- Prints numbers that appear more than once.
+
+
 
 
 
