@@ -70,7 +70,15 @@ A simple Python implementation of Heap Sort using a max heap.
 - Repeatedly swaps the root (maximum element) with the last element.
 - Reduces the heap size and re-heapifies to maintain the heap structure.
 
+🔄 Bubble Sort in Python - (check the bubble_sort.py)
+A simple Python implementation of the Bubble Sort algorithm.
 
+## 🧠 How It Works
+
+- Repeatedly steps through the list.
+- Compares adjacent elements.
+- Swaps them if they are in the wrong order.
+- Continues until the list is fully sorted.
 
 
 
