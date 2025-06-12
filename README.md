@@ -105,3 +105,6 @@ A basic implementation of the Linear Search algorithm to find the index of a tar
 # Binary Search in Python(check the binary search folder)
 This project implements the Binary Search algorithm in Python.  
 It searches for a target number in a **sorted list** by repeatedly dividing the search range in half.
+
+
+# did the greedy algorithm(check folder greedy algoritm)
