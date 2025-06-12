@@ -76,5 +76,8 @@ A simple Python implementation of the Bubble Sort algorithm.
 A simple implementation of the Merge Sort algorithm using recursion and list merging.
 
 
-
+# Selection Sort in Python
+A basic implementation of the Selection Sort algorithm.
+## How it works
+The algorithm finds the smallest element in the unsorted part of the list and swaps it with the current position. It repeats this until the list is sorted.
 
