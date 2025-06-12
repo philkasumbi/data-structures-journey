@@ -93,3 +93,10 @@ This project contains a simple and clean implementation of the Quick Sort algori
 ## Features
 - Recursive approach
 - Uses pivot to partition and sort
+
+done with sorting  now
+next to searching 
+
+
+# Linear Search in Python(check linear search folder)
+A basic implementation of the Linear Search algorithm to find the index of a target value in a list.
