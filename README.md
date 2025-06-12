@@ -76,13 +76,20 @@ A simple Python implementation of the Bubble Sort algorithm.
 A simple implementation of the Merge Sort algorithm using recursion and list merging.
 
 
-# Selection Sort in Python
+# Selection Sort in Python(check selection sort folder)
 A basic implementation of the Selection Sort algorithm.
 ## How it works
 The algorithm finds the smallest element in the unsorted part of the list and swaps it with the current position. It repeats this until the list is sorted.
 
 
-# Insertion Sort in Python
+# Insertion Sort in Python(check insertion sort folder)
 A simple Python implementation of the Insertion Sort algorithm.
 ## How it works
 The algorithm goes through the list, takes one element at a time, and inserts it into its correct position in the sorted part of the list.
+
+
+# Quick Sort in Python(check the quick sort folder)
+This project contains a simple and clean implementation of the Quick Sort algorithm in Python.
+## Features
+- Recursive approach
+- Uses pivot to partition and sort
