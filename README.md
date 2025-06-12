@@ -81,3 +81,8 @@ A basic implementation of the Selection Sort algorithm.
 ## How it works
 The algorithm finds the smallest element in the unsorted part of the list and swaps it with the current position. It repeats this until the list is sorted.
 
+
+# Insertion Sort in Python
+A simple Python implementation of the Insertion Sort algorithm.
+## How it works
+The algorithm goes through the list, takes one element at a time, and inserts it into its correct position in the sorted part of the list.
