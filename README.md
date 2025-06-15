@@ -108,3 +108,5 @@ It searches for a target number in a **sorted list** by repeatedly dividing the 
 
 
 # did the greedy algorithm(check folder greedy algoritm)
+
+# dynamic programming examples: Memoization, Tabulation, and LCS
